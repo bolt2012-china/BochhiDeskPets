@@ -7,9 +7,16 @@
 
 F:.
 ├─.idea
+
 │  └─inspectionProfiles
+
 ├─Bochhi
+
 │  └─DeskPets
+
 ├─images
+
 ├─sounds
+
 └─__pycache__
+
